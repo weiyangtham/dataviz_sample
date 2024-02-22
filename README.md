@@ -1,1 +1,1 @@
-[![](fed-v-nih-funding.png)
+![](fed-v-nih-funding.png)
